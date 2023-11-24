@@ -10,8 +10,10 @@ Hello there! I'm Adam Alexuc, an aspiring software engineer based in the beautif
 - **Looking Forward:** I am excited about the endless possibilities in the field of software engineering and am always open to collaborating on projects that challenge me to grow.
 
 ## Connect with Me 🌐
-- **GitHub:** [Your GitHub](https://github.com/AdamAlexuc)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/adamalexuc)
+- **GitHub:** (https://github.com/AdamAlexuc)
+- **LinkedIn:** (www.linkedin.com/in/adam-alexuc
+
+)
 
 ## Hobbies & Interests 🏋️
 - I love working out and believe that a strong body builds a strong mind. Regular visits to the gym keep me energized and focused.
